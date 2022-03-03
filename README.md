@@ -8,9 +8,9 @@ it then will return that integer in english words. (123 = one hundred twenty thr
 a different unit. User is able to choose their conversion units. 
 
 Conversions supported:
-kilometers and miles
-litres and gallons 
-hectares and acres
+kilometers and miles,
+litres and gallons,
+hectares and acres,
 kilograms and pounds
 
 3. arrayOperations.c is a simple program that asks the user for an integer array of arbitrary length, and then perfroms some
