@@ -12,3 +12,6 @@ kilometers and miles
 litres and gallons 
 hectares and acres
 kilograms and pounds
+
+3. arrayOperations.c is a simple program that asks the user for an integer array of arbitrary length, and then perfroms some
+basic operations such as printing the size in bytes, printing the array in reverse, and more.
