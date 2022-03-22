@@ -15,3 +15,6 @@ kilograms and pounds
 
 3. arrayOperations.c is a simple program that asks the user for an integer array of arbitrary length, and then perfroms some
 basic operations such as printing the size in bytes, printing the array in reverse, and more.
+
+4.sport_db.c is a database written in C which holds sporting events using sturcture arrays. There are functions such as inserting,
+searching, updating, and priting included in the database.
